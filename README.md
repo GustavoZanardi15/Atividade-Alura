@@ -15,6 +15,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-EM ANDAMENTO , 78% do curso concluido até o momento 
+EM ANDAMENTO , 81% do curso concluido até o momento 
 
 
